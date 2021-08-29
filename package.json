@@ -1,0 +1,23 @@
+{
+  "name": "js-task-atm",
+  "version": "1.0.0",
+  "description": "~~ Solving task \"ATM task\" on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellenWeb/js-task-atm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellenWeb/js-task-atm/issues"
+  },
+  "homepage": "https://github.com/HellenWeb/js-task-atm#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
